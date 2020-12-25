@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tobychui/cyinput/master/image/header.png"></img>
+<img src="https://raw.githubusercontent.com/hkben/cyinput/master/image/header.png"></img>
 # cyinput
 
 <img src="https://img.shields.io/badge/License-GPLv3-%23207de5.svg"> <img src="https://img.shields.io/badge/Build-Portable-blue.svg"> <img src="https://img.shields.io/badge/Made%20in-Hong%20Kong-orange.svg">
@@ -10,9 +10,9 @@
 而且亦不需要安裝，可直接在 USB 啟動，所謂居家旅行必備程式
 
 ## 下載
-<a href="https://raw.githubusercontent.com/tobychui/cyinput/master/cyinput/bin/Debug/cyinput.exe">點這裡</a>
+<a href="https://raw.githubusercontent.com/hkben/cyinput/master/cyinput/bin/Debug/cyinput.exe">點這裡</a>
 
-如果你想使用舊版，你也可以查看我們曾發佈的 <a href="https://github.com/tobychui/cyinput/releases">歷史版本</a>。
+如果你想使用舊版，你也可以查看我們曾發佈的 <a href="https://github.com/hkben/cyinput/releases">歷史版本</a>。
 
 ## 系統要求
 - Windows 7 或以上
@@ -32,7 +32,7 @@
 3. 選擇及點取你想輸入的中文字
 4. 重複第 2 步及第 3步直至你已完成輸入所有你需要輸入的文字
 
-<img src="https://raw.githubusercontent.com/tobychui/cyinput/master/image/preveiwType.gif"/>
+<img src="https://raw.githubusercontent.com/hkben/cyinput/master/image/preveiwType.gif"/>
 
 <sub> *數字鍵即為鍵盤最右面的九個數字按鍵。部分筆記本電腦上或會缺少這些按鈕，在此況下你需要一個外置的數字鍵盤。 </sub>
 
@@ -46,36 +46,36 @@ cyinput 具有三種輸入模式，分別為
 ### 新版
 迷你界面
 
-<img src="https://raw.githubusercontent.com/tobychui/cyinput/master/image/mini.png"></img>
+<img src="https://raw.githubusercontent.com/hkben/cyinput/master/image/mini.png"></img>
 
 標準界面
 
-<img src="https://raw.githubusercontent.com/tobychui/cyinput/master/image/large.png"></img>
+<img src="https://raw.githubusercontent.com/hkben/cyinput/master/image/large.png"></img>
 
 ### Legacy 版本
-<img src="https://raw.githubusercontent.com/tobychui/cyinput/master/image/preview.png"></img>
+<img src="https://raw.githubusercontent.com/hkben/cyinput/master/image/preview.png"></img>
 
 ## 關聯字
-<img src="https://raw.githubusercontent.com/tobychui/cyinput/master/image/asso_new.png"></img>
+<img src="https://raw.githubusercontent.com/hkben/cyinput/master/image/asso_new.png"></img>
 
 速型輸入法支援關聯字輸入（但是並不會顯示），如果你需要輸入關聯字請在輸入完第一個字後點選「選字」來查看相關關聯字。
 
 ## 香港增補字符集
 在 10-6-2019 之後的版本已經新增香港增補字符集支援，如果無法顯示請檢查系統是否已安裝 "MingLiU_HKSCS" 字體
 
-<img src="https://raw.githubusercontent.com/tobychui/cyinput/master/image/HKSCS.PNG"></img>
+<img src="https://raw.githubusercontent.com/hkben/cyinput/master/image/HKSCS.PNG"></img>
 
 ## 同音字檢索
 在 15-6-2019 版本之後已經新增同音字檢索，由於字庫暫未整理，所以常用字未必會放在第一頁。
 
-<img src="https://raw.githubusercontent.com/tobychui/cyinput/master/image/homophonic.png"></img>
+<img src="https://raw.githubusercontent.com/hkben/cyinput/master/image/homophonic.png"></img>
 
 注：此同音字檢索是基於無音調粵語同音字<a href="https://words.hk/">資料庫</a>，與其他字型輸入法有少許不同，使用時敬請注意。
 
 ## 姓氏檢索
 在 17-6-2019 版本之後已經新增姓氏快速檢索功能。
 
-<img src="https://raw.githubusercontent.com/tobychui/cyinput/master/image/lastname.png"/>
+<img src="https://raw.githubusercontent.com/hkben/cyinput/master/image/lastname.png"/>
 
 ## 其他功能
 - 使用數字鍵盤 "-" 及 "+" 在選字界面前進或後退一頁
